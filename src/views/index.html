@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/script.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <header class="header p-2">Articles</header>
+    <form class="articles-form">
+        <label class="input_lable" for="title">
+            <p>Title</p>
+            <input id="title" type="text" class="text_input">
+        </label>
+        <label class="input_lable" for="authorName">
+            <p>Author Name</p>
+            <input id="authorName" type="text" class="text_input">
+        </label>
+        <label class="input_lable" for="image">
+            <p>Image</p>
+            <input id="image" type="text" class="text_input">
+        </label>
+        <label class="input_lable" for="content">
+            <p>Content</p>
+            <textarea id="content" class="text_input"></textarea>
+        </label>
+        <button>Submit article</button>
+    </form>
+    <div class="articles">
+        <div class="article">
+            <div class="image_wrapper">
+                <img src="https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&w=600" alt="Image" />
+            </div>
+            <div class="details_wrapper">
+                <h3 class="title">This is title</h3>
+                <h5 class="author">This is author</h5>
+                <p class="content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi nam, facilis distinctio rerum nostrum eaque voluptas alias voluptatibus velit itaque fugiat error. Saepe accusamus reiciendis, illum libero iure beatae dolorum.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

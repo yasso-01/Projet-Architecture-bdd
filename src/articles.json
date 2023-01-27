@@ -1,0 +1,85 @@
+{
+    "articles": [
+        {
+            "_id": "63d2ec4807328d93838981ed",
+            "authorName": "Author",
+            "public": true,
+            "image": "https://images.pexels.com/photos/593158/pexels-photo-593158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "tags": ["Story"],
+            "content": "\"It doesn't take much to touch someone's heart,\" Daisy said with a smile on her face. \"It's often just the little things you do that can change a person's day for the better.\" Daisy truly believed this to be the way the world worked, but she didn't understand that she was merely a robot that had been programmed to believe this.",
+            "createdAt": "2023-01-26T21:10:32.308Z",
+            "updatedAt": "2023-01-26T21:10:32.308Z",
+            "title": "Random title",
+            "__v": 0
+        },
+        {
+            "_id": "63d2ec6f07328d93838981ef",
+            "authorName": "Author",
+            "public": true,
+            "image": "https://images.pexels.com/photos/593158/pexels-photo-593158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "tags": [],
+            "content": "Balloons are pretty and come in different colors, different shapes, different sizes, and they can even adjust sizes as needed. But don't make them too big or they might just pop, and then bye-bye balloon. It'll be gone and lost for the rest of mankind. They can serve a variety of purposes, from decorating to water balloon wars. You just have to use your head to think a little bit about what to do with them.",
+            "createdAt": "2023-01-26T21:11:11.999Z",
+            "updatedAt": "2023-01-26T21:11:11.999Z",
+            "title": "Random title",
+            "__v": 0
+        },
+        {
+            "_id": "63d2eca907328d93838981f1",
+            "authorName": "Author",
+            "public": false,
+            "image": "https://images.pexels.com/photos/593158/pexels-photo-593158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "tags": [
+                "Tech"
+            ],
+            "content": "Out of another, I get a lovely view of the bay and a little private wharf belonging to the estate. There is a beautiful shaded lane that runs down there from the house. I always fancy I see people walking in these numerous paths and arbors, but John has cautioned me not to give way to fancy in the least. He says that with my imaginative power and habit of story-making a nervous weakness like mine is sure to lead to all manner of excited fancies and that I ought to use my will and good sense to check the tendency. So I try.",
+            "createdAt": "2023-01-26T21:12:09.865Z",
+            "updatedAt": "2023-01-26T21:12:09.865Z",
+            "title": "Random title",
+            "__v": 0
+        },
+        {
+            "_id": "63d37adeeeeb9c20224fb83b",
+            "authorName": "Author",
+            "public": false,
+            "image": "",
+            "tags": [
+                "Tech"
+            ],
+            "content": "The wave crashed and hit the sandcastle head-on. The sandcastle began to melt under the waves force and as the wave receded, half the sandcastle was gone. The next wave hit, not quite as strong, but still managed to cover the remains of the sandcastle and take more of it away. The third wave, a big one, crashed over the sandcastle completely covering and engulfing it. When it receded, there was no trace the sandcastle ever existed and hours of hard work disappeared forever.",
+            "title": "The Wave",
+            "createdAt": "2023-01-27T07:18:54.560Z",
+            "updatedAt": "2023-01-27T07:18:54.560Z",
+            "__v": 0
+        },
+        {
+            "_id": "63d37af2eeeb9c20224fb83d",
+            "authorName": "Author",
+            "public": false,
+            "image": "",
+            "tags": [
+                "Tech"
+            ],
+            "content": "The piano sat silently in the corner of the room. Nobody could remember the last time it had been played. The little girl walked up to it and hit a few of the keys. The sound of the piano rang throughout the house for the first time in years. In the upstairs room, confined to her bed, the owner of the house had tears in her eyes.",
+            "title": "The Piano",
+            "createdAt": "2023-01-27T07:19:14.421Z",
+            "updatedAt": "2023-01-27T07:19:14.421Z",
+            "__v": 0
+        },
+        {
+            "_id": "63d37b10eeeb9c20224fb83f",
+            "authorName": "Author",
+            "public": false,
+            "image": "",
+            "tags": [
+                "Tech"
+            ],
+            "content": "Dave wasn't exactly sure how he had ended up in this predicament. He ran through all the events that had lead to this current situation and it still didn't make sense. He wanted to spend some time to try and make sense of it all, but he had higher priorities at the moment. The first was how to get out of his current situation of being naked in a tree with snow falling all around and no way for him to get down.",
+            "title": "Dave",
+            "createdAt": "2023-01-27T07:19:44.551Z",
+            "updatedAt": "2023-01-27T07:19:44.551Z",
+            "__v": 0
+        }
+        
+    ]
+}
